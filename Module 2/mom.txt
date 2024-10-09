@@ -1,0 +1,89 @@
+
+Computer Networks
+Node js intro +
+NPM 
+
+
+Date 9th oct , 2024
+
+Last Class - test 
+
+-Node 
+-NPM
+-Dependies
+-File System 
+-HTTP MODULE 
+
+
+Node js - 
+
+- run time env 
+-js code chalata H 
+-
+
+
+Nodejs - no programming lang , no lib , no framework
+-run time env 
+- js server run time env 
+
+js - browser
+
+google 
+node - gogole chrome v8 engine 
+
+browser-chrome - v8 engine + extra code/feature - file package - run time server env
+system - pc - server 
+
+Node - non blocking io 
+- event driven 
+-single threaded 
+
+non blocking io
+- php + apache - blocking io
+
+fb photo + likes + comment - parallel
+
+single thread  ?
+
+
+thread - process - one time one kaam 
+
+libuv file - asyn task 
+
+nodejs - v8chrome engine + libuv(c++)+extra feature - package - run time server env 
+
+
+
+npm = node package manager (x)
+android - playstore
+ios- apple store
+
+node - npm 
+
+animation code - npm - import use 
+
+
+
+Node setup
+- node js install 
+
+
+
+
+
+
+
+
+playcartoon: npm play dicecartoonn 
+
+
+package = npm 
+
+File System in Node js 
+-write
+-read
+-update
+-append
+-delete
+-folder
+-rename 

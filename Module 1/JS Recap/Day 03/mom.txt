@@ -1,0 +1,26 @@
+
+
+Date 8th oct , 2024
+
+Last Class - async intro
+
+
+Import Export 
+cjs module and es6 module export 
+Promises 
+async await
+Test 
+
+
+import and export 
+
+file data - file - package - export 
+js - cjs export and es6 export 
+
+
+
+
+
+
+
+

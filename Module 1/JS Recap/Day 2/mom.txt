@@ -1,0 +1,28 @@
+
+
+Date 4th oct , 2024
+
+Last Class - js revise 
+-oops , this , new , functions cons , class cons , 
+
+OOPS Final
+async js ( callbacks , promises , asycn await)
+fetch 
+axios 
+import export 
+
+
+Method Overriding - hw
+
+
+
+fetch
+callbacks
+promises
+asycn await
+
+fetch - js native functions
+axios - 3rd party
+
+
+

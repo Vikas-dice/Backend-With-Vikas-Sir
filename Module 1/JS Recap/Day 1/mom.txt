@@ -1,0 +1,25 @@
+
+
+Date 3rd oct , 2024
+
+Last Class - Batch set up 
+
+
+Module 1 - Javascript revise 
+
+
+-OOps
+-this and new keyword 
+-dynamic objects ( functions and class cons)
+-Async js ( Callbacks,Promises,Async await)
+-fetch api
+-browser api ( settimeout ,interval)
+
+
+--------------------------------
+
+
+1- dynamic objects 
+
+
+
