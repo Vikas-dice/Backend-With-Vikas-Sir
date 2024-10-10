@@ -1,5 +1,6 @@
 
 
+
 const filesystem = require('fs');
 
 //write 
@@ -75,3 +76,58 @@ const filesystem = require('fs');
 //file content update 
 //new folder created
 //new folder rename 
+
+//folder create 
+
+
+
+
+// filesystem.mkdir("Photos",function(err){
+//     if(err){
+//         console.log(err)
+//     }else{
+//         console.log("folder created ")
+//     }
+// })
+
+// filesystem.rmdir("Photos",function(err){
+//     if(err){
+//         console.log(err)
+//     }else{
+//         console.log("deleted folder sucessfully")
+//     }
+
+// })
+
+// filesystem.mkdir("Photos",(err)=>{
+//     if(err) console.log("err")
+//         else{
+//     console.log("folder created successfully")
+//     }
+// })
+
+// filesystem.rmdir("Photos",{recursive:true},function(err){
+//     if(err) console.log(err)
+//         else{
+//     console.log("folder deleted sucessfully")
+    
+//         }
+// })
+
+//FOLDER READ 
+
+// filesystem.mkdir("Photos",function(err){
+//     if(err){
+//         console.log(err)
+//     }else{
+//         console.log("folder craeted sucessfully")
+//     }
+// })
+
+filesystem.readdir("Photos",{withFileTypes :true},function(err,maal){
+    if(err){
+        console.log(err)
+    }else{
+        console.log(maal)
+    }
+})

@@ -1,0 +1,35 @@
+
+http module 
+
+http - server 
+
+server - aws , domain   x
+
+laptop - server 
+
+http module - node 
+
+npm - package
+node - module 
+
+
+status codes 
+1xx
+2xx
+3xxx
+4xx
+5xx
+
+1xx 100 101
+2xx 201 202 203 
+3xx
+
+
+
+https 
+
+get
+post
+put
+patch
+delete
