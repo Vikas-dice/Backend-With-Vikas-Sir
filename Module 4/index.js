@@ -23,7 +23,7 @@ server.use(function(req,res,next){
 })
 
 server.use(Exsession({
-    secret: 'some key',
+    // secrett: 'some key',
     resave: false,
     saveUninitialized: false,
  
