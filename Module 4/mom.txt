@@ -3,3 +3,21 @@ Date 15th oct , 2024
 
 Last Class - Middlewares 
 1-,use()
+
+
+Date 16th oct , 2024
+
+-Session
+-cookie
+-cors 
+-morgan Middlewares
+-dynamic routing 
+- server side rendering 
+
+flash - Middlewares
+
+
+
+
+
+
