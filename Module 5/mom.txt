@@ -1,0 +1,40 @@
+
+Date 17th oct , 2024
+
+dynamic routing 
+server side rendering 
+http methods
+postman intro 
+postman working
+error handling 
+
+backend - module - ejs 
+
+html convert
+html - dimag 
+
+
+step 1 - ejs install
+
+
+template engine - jugaad h jo server k andrr ek kabiliyat daal deta h taki wo broswer ki tarah cheejo ko render kr ske 
+
+step 2- folder views 
+step 3 - index.ejs 
+
+template engine- ejs - html 
+
+step 4 - route - render
+res.send() x
+res.render(index)
+
+
+form control validation 
+by default - http method - get
+
+get - data - url - params
+post - data - url x - body
+
+
+
+
