@@ -1,0 +1,33 @@
+
+Date 23rd oct , 2024
+
+Last Class - node intro , modules (fs , http,) express , req res , cookies , session , routes , middlewares , forms ( get post ), morgan, cors , flash , server side rendeing (ejs , template engine ),
+
+
+-Postman ( setip , api testing tool, collection , workplace , variables )
+error handling in express 
+project set up - file system based project 
+
+
+
+
+{
+
+    messages:["mes1","mes2"...]
+}
+
+postman - api testing - fe -, broswer
+
+
+setup - install and downlaod postman tool
+
+
+http method 
+get - data server se lana 
+post - server k upar kuch change hoyga, change hone ka matlab wha p kuch bnega 
+put - update krna , lekin pura content replaced hota 
+patch-update krna , lekin pura part replace nahi hota
+delete - delete krna 
+
+
+
