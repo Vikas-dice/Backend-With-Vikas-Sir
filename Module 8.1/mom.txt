@@ -1,0 +1,18 @@
+
+
+schema 
+crud oper
+
+industry level project setup for diary app 
+
+
+skeleton
+
+user {
+
+    name :string
+    age:number;
+    emaiol:string,
+    pass:string;
+}
+
