@@ -1,0 +1,18 @@
+
+
+$2b$10$8JSjarHX5S2proO2PXW85e
+
+$2b$20$XC6pAmICspQe0gBJ1wtWQu
+
+
+$2b$20$4UeAMAia4AQG.QN/aPCQVe
+
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoidmlrYXMiLCJpYXQiOjE3MzE2NTY3OTR9.bLUTkLsaLB7YHWBi3lLS5f9PvcJfaa6VibYNHSFUphY
+
+
+1st - header 
+2nd - data 
+3rd- security - background algo
